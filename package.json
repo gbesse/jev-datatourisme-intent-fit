@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-datatourisme-intent-fit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rapproche une intention de sortie de lieux touristiques documentés et justifie les propositions en français.",
   "type": "module",
   "license": "MIT",
